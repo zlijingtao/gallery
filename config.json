@@ -1,13 +1,31 @@
 {
-  "Japan": [
+  "Jiangxi": [
     {
       "width": 6000,
       "height": 4000,
-      "path": "./photos/Japan/DSC01357.jpg",
-      "compressed_path": "./photos/Japan/DSC01357.min.jpg",
+      "path": "./photos/Jiangxi/DSC02670.jpg",
+      "compressed_path": "./photos/Jiangxi/DSC02670.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Japan/DSC01357.placeholder.jpg"
+      "placeholder_path": "./photos/Jiangxi/DSC02670.placeholder.jpg"
     },
+    {
+      "width": 5558,
+      "height": 3381,
+      "path": "./photos/Jiangxi/DSC02684.jpg",
+      "compressed_path": "./photos/Jiangxi/DSC02684.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Jiangxi/DSC02684.placeholder.jpg"
+    },
+    {
+      "width": 3524,
+      "height": 3524,
+      "path": "./photos/Jiangxi/DSC02690.jpg",
+      "compressed_path": "./photos/Jiangxi/DSC02690.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Jiangxi/DSC02690.placeholder.jpg"
+    }
+  ],
+  "Japan": [
     {
       "width": 3963,
       "height": 2810,
@@ -55,6 +73,98 @@
       "compressed_path": "./photos/Japan/DSC00931.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Japan/DSC00931.placeholder.jpg"
+    }
+  ],
+  "Tucson": [
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Tucson/DSC03152.jpg",
+      "compressed_path": "./photos/Tucson/DSC03152.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Tucson/DSC03152.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Tucson/DSC03183.jpg",
+      "compressed_path": "./photos/Tucson/DSC03183.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Tucson/DSC03183.placeholder.jpg"
+    }
+  ],
+  "Sedona": [
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Sedona/DSC02943.jpg",
+      "compressed_path": "./photos/Sedona/DSC02943.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sedona/DSC02943.placeholder.jpg"
+    },
+    {
+      "width": 3175,
+      "height": 3175,
+      "path": "./photos/Sedona/DSC02832.jpg",
+      "compressed_path": "./photos/Sedona/DSC02832.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sedona/DSC02832.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Sedona/DSC02913.jpg",
+      "compressed_path": "./photos/Sedona/DSC02913.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sedona/DSC02913.placeholder.jpg"
+    },
+    {
+      "width": 5850,
+      "height": 3900,
+      "path": "./photos/Sedona/DSC02865.jpg",
+      "compressed_path": "./photos/Sedona/DSC02865.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sedona/DSC02865.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Sedona/DSC02885.jpg",
+      "compressed_path": "./photos/Sedona/DSC02885.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sedona/DSC02885.placeholder.jpg"
+    },
+    {
+      "width": 5105,
+      "height": 3403,
+      "path": "./photos/Sedona/DSC02864.jpg",
+      "compressed_path": "./photos/Sedona/DSC02864.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sedona/DSC02864.placeholder.jpg"
+    },
+    {
+      "width": 3588,
+      "height": 3588,
+      "path": "./photos/Sedona/DSC02876.jpg",
+      "compressed_path": "./photos/Sedona/DSC02876.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sedona/DSC02876.placeholder.jpg"
+    },
+    {
+      "width": 5238,
+      "height": 3492,
+      "path": "./photos/Sedona/DSC02861.jpg",
+      "compressed_path": "./photos/Sedona/DSC02861.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sedona/DSC02861.placeholder.jpg"
+    },
+    {
+      "width": 4996,
+      "height": 3331,
+      "path": "./photos/Sedona/DSC03114.jpg",
+      "compressed_path": "./photos/Sedona/DSC03114.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sedona/DSC03114.placeholder.jpg"
     }
   ]
 }
